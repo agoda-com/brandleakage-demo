@@ -204,7 +204,6 @@ This is a demonstration project designed for educational purposes. Feel free to 
 
 - [Playwright Visual Testing Documentation](https://playwright.dev/docs/test-screenshots)
 - [Visual Testing Best Practices](https://playwright.dev/docs/best-practices)
-- Blog post: [Link to your detailed blog post will go here]
 
 ---
 
